@@ -1,0 +1,2 @@
+DM-CGS-01,Audio/DM-CGS-01
+DM-CGS-02,Audio/DM-CGS-02
